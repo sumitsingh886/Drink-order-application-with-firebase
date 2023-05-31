@@ -1,0 +1,84 @@
+.bodyStyle {
+  background: rgb(20, 20, 20);
+  height: 715px;
+  padding: 15px;
+  color: white;
+}
+
+.menuFormStyle {
+  display: grid;
+  grid-template-columns: 40% auto;
+  border: 3px solid white;
+  height: 713px;
+}
+
+.menuStyle {
+  border: 3px solid white;
+  padding: 50px 70px;
+  margin: 15px;
+  height: 525px;
+}
+
+.menuItemStyle {
+  color: black;
+  border-radius: 5px;
+  border: 2px solid white;
+  background-color: yellowgreen;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 20px;
+}
+
+.formStyle {
+  border: 3px solid white;
+  padding: 50px 70px;
+  margin: 15px 15px 15px 0;
+  height: 525px;
+}
+
+.fieldStyle {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 20px;
+  width: 100px;
+  text-align: right;
+  padding-top: 3px;
+}
+
+.inputStyle {
+  height: 30px;
+  width: 40%;
+  font-size: 15px;
+  border-width: 3px;
+  border-color: white;
+  background-color: rgb(20, 20, 20);
+  border-radius: 5px;
+  color: white;
+}
+
+.selectStyle {
+  height: 35px;
+  width: 41.1%;
+  font-size: 15px;
+  border-width: 3px;
+  border-color: white;
+  background-color: rgb(20, 20, 20);
+  border-radius: 5px;
+  color: white;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  margin-left: 48.5%;
+  border: none;
+  background-color: white;
+  color: rgb(20, 20, 20);
+  font-weight: bold;
+  cursor: pointer;
+}
